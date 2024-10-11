@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.box { 
+  width: 200px; /* Define a largura da caixa */
+  height: 200px; /* Define a altura da caixa */
+  background-color: lightblue; /* Cor de fundo azul claro */
+  display: flex; /* Usa flexbox para organizar o conteúdo */
+  align-items: center; /* Centraliza o conteúdo verticalmente */
+  justify-content: center; /* Centraliza o conteúdo horizontalmente */
+  border: 2px solid #333; /* Borda fina com cor cinza escura */
+  margin: 20px auto; /* Adiciona uma margem ao redor e centraliza a caixa */
+  text-align: center; /* Centraliza o texto dentro da caixa */
+}
+
